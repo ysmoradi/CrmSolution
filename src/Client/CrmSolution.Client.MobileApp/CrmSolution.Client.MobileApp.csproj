@@ -12,8 +12,8 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Bit.Client.Xamarin.Prism" Version="5.7.2" />
-		<PackageReference Include="Bit.Tooling.CodeAnalyzer" Version="5.7.2" />
+		<PackageReference Include="Bit.Client.Xamarin.Prism" Version="5.8.0" />
+		<PackageReference Include="Bit.Tooling.CodeAnalyzer" Version="5.8.0" />
 		<PackageReference Include="Fody" Version="6.2.4">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
